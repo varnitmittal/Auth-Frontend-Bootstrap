@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Auth FE React",
+  "name": "Auth Frontend MERN",
   "icons": [
     {
       "src": "auth_logo.png",
